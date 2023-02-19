@@ -1,0 +1,11 @@
+.Counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+}
+.Counter_controls{
+
+    background-color: rgba(4, 20, 2, 0.076);
+    color: black;
+}

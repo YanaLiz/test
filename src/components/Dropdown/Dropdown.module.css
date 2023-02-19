@@ -1,0 +1,21 @@
+.Dropdown{
+    
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid black;
+}
+.Dropdown_togle{
+    background-color: bisque;
+    margin-bottom: 20px;
+}
+.Dropdown_menu{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    text-align: center;
+    background-color: aquamarine;
+    width: 400px;
+    padding: 20px;
+    margin-top: 1px;
+}

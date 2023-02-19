@@ -1,0 +1,12 @@
+.Filter_name{
+    margin-bottom: 20px;
+    border-radius: 8px;
+    padding: 4px;
+    margin-left:15px;
+    outline: none;
+    border: 1px solid teal;
+}
+.Filter_label{
+  margin-bottom: 20px;  
+  margin-left: 15px;
+}

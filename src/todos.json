@@ -1,0 +1,7 @@
+ [
+      { "id": "id-1", "text": "Вивчити React", "complited": true },
+      { "id": "id-2", "text": "Розібратися з React Router", "complited": false },
+      { "id": "id-3", "text": "Пережити Redus", "complited": false },
+      { "id": "id-4", "text": "Освоїти React Nativ", "complited": false }
+      
+    ]
